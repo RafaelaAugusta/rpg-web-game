@@ -1,6 +1,5 @@
 ﻿# rpg-web-game
-
-# rpg-web-game
+ 
 #  Derrote o Dragão - Jogo RPG
 Um jogo de RPG simples desenvolvido em JavaScript onde você deve derrotar o dragão que ameaça a cidade!
 
@@ -17,3 +16,4 @@ JavaScript Vanilla
 Jogue aqui!
 
 Este projeto foi desenvolvido com o intuito de testar habilidades básicas de JavaScript, HTML e CSS.
+
